@@ -18,7 +18,7 @@ function App() {
         <Title title="Components,Props,State & Lifecycle in React"/>
         <TodoList name="Hello world"/>
         <Clock />
-        <Todo />
+        <Todo /> 
         <Title title="Event Handling in React"/>
         <Toggle />
         <Title title="Conditional Rendering"/>
